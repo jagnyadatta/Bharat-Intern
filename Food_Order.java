@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;     //Scanner Package
 public class Food_Order {
     public static void main(String[] args){
         System.out.println("             ======================================");
